@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CodeWithMogha/LEETCODE/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWithMogha/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeWithMogha/LEETCODE/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWithMogha/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
